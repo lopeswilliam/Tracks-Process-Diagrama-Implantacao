@@ -6,6 +6,6 @@ São frequentemente usados para modelar a visão estática de implantação de u
 Tipo de diagrama que representa a estrutura física de um sistema, mostrando como os componentes de software são alocados aos nós (componentes de hardware) e suas interconexões.
 
 Neste exemplo.
-Aplicação web pode mostrar um servidor web, uma aplicação sendo gerenciado por um cluster kubernetes se comunicando com um servidor de banco de dados.
+Aplicação WEB pode mostrar um servidor web, uma aplicação BACK END sendo gerenciado por um cluster kubernetes se comunicando com um servidor de banco de dados. /
 
 O diagrama também pode mostrar como esses nós estão conectados através de uma rede. 
